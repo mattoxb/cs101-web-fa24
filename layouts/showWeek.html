@@ -1,0 +1,12 @@
+{{ $requestedWeek := .Get 0 | int }} <!-- Get the requested week number -->
+{{ $startDate := time (index .Site.Data.params "week1start") }} <!-- Fetch the start date from params.yml -->
+
+{{ range $key, $lecture := .Site.Data.lectures }}
+  {{ $lectureDate := time $lecture.date }} <!-- Parse the lecture date -->
+  {{ $weekDifference := div (sub ($lectureDate.Unix) ($startDate.Unix)) (604800) }} <!-- Calculate week difference -->
+  {{ $weekNumber := add 1 $weekDifference }} <!-- Adjust for the week number -->
+
+  {{ if eq $weekNumber $requestedWeek }} <!-- Check if the lecture is in the requested week -->
+    {{ $lecture.title }}<br>
+  {{ end }}
+{{ end }}

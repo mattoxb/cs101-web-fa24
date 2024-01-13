@@ -1,0 +1,5 @@
+{{ $lectureKey := .Get 0 }} <!-- Get the parameter passed to the shortcode -->
+{{ $lecture := index .Site.Data.lectures $lectureKey }} <!-- Access the lecture data -->
+{{ $date := time $lecture.date }} <!-- Parse the date string -->
+{{ $formattedDate := $date.Format "Monday, January 2, 2006" }} <!-- Format the date -->
+{{ $formattedDate }} <!-- Output the formatted date -->

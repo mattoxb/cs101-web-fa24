@@ -1,0 +1,40 @@
+lab1:
+  title: Lab 1 - Intro
+  date: 2024-01-24
+
+lab2:
+  date: 2024-01-29
+  title: Lab 2 - Python as an Expensive Calculator
+lab3:
+  date: 2024-02-05
+  title: Lab 3 - Loops and range
+lab4:
+  date: 2024-02-12
+  title: Lab 4 - Functions
+lab5:
+  date: 2024-02-19
+  title: Lab 5 - DNA Sequencing
+lab6:
+  date: 2024-02-26
+  title: Lab 6 - Liia's Magnum Opus
+lab7:
+  date: 2024-03-04
+  title: Lab 7 - Exception Handling
+lab8:
+  date: 2024-03-18
+  title: Lab 8 - The Inigma Machine (with Unit Tests)
+lab9:
+  date: 2024-03-25
+  title: Lab 9 - Unit Tests
+lab10:
+  date: 2024-04-01
+  title: Lab 10 - Hunt the Wumpus
+lab11:
+  date: 2024-04-08
+  title: Lab 11 - Censorship
+lab12:
+  date: 2024-04-15
+  title: Lab 12 - Sympy, Scipi, and fun libraries to use
+lab13:
+  date: 2024-04-22
+  title: Lab 12 - Pandas Lab
