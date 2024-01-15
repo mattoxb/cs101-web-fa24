@@ -1,9 +1,9 @@
 ---
-title: "Numpy 1"
+title: "Pandas 1"
 draft: false
-weight: 22
+weight: 24
 ---
-Lecture date: {{< lectureDate "numpy_1" >}}
+Lecture date: {{< lectureDate "pandas_1" >}}
 ## Topic
 
 More details about this lecture will be put here soon.

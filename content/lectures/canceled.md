@@ -1,6 +1,8 @@
 ---
 title: "(Canceled)"
-date: 2024-04-17T16:18:22-06:00
 draft: false
 weight: 25
 ---
+
+The university says we are supposed to give you lecture time off to make up for exams we give you
+outside of class.  This lecture is one of them.

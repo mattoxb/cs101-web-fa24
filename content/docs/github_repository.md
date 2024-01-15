@@ -2,8 +2,9 @@
 title: "Viewing Your Grades"
 date: 2024-01-09T16:07:09-06:00
 menutitle: "Your Grades"
-weight: 1
+weight: 5
 draft: false
+imageEffects.lightbox: false
 ---
 
 # How to See Your Grades
@@ -25,7 +26,7 @@ Please note that **this is a multi-step process**!  If you do not follow **all**
 1. Access the [magic repository creator link](https://edu.cs.illinois.edu/create-gh-repo/sp24_cs101) to get started.
    You will see a web page with the following content:
    
-   ![](/images/log_in_to_github.png)
+   ![](images/log_in_to_github.png?lightbox=false)
 
 
 2. Click on the "Log in to GitHub.com".  This will open a new page; follow the instructions.  If you already have a
@@ -35,22 +36,19 @@ Please note that **this is a multi-step process**!  If you do not follow **all**
 
 3. Once you are done, return to the original page and click "I've logged in!".  You will see a new page in respone:
 
-   ![](/images/join_org.png)
+   ![](images/join_org.png)
    
    This is an invitation to join the UIUC Coursework organization on github.  Click on "Join org: Illinos-cs-coursework".
    
 4. This will take you to github again, with the following page:
 
-   ![](/images/single_sign_on.png)
-
+   ![](images/single_sign_on.png)
 
    Click on "Continue".  You will be authenticated via UIUC's login systems, and probably have to interact with the dreaded Duo
    authentication app.
    
    Once that is done, you will probably see a page named something like `sp24_cs101_NETID`, where `NETID` is your actual netid.
    
-   This is your repository for CS 101.  Bookmark the page so you can view your grades later.
+   This is your repository for CS 101.  Bookmark the page so you can view your grades later.  **You will not see any grades right away.**
+   This page is populated by a script that the staff runs twice a day.  Check again in about 12 hours and you should see something then.
    
-   Twice a day the staff run a script to download the latest scores off of prairirelearn and recompute your current grades.
-   Once that happens this link will show you the breakdown.  So, to be clear, you will not see your scores right away; they will
-   show up in about 12 hours or so.

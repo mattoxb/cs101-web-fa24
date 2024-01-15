@@ -9,8 +9,8 @@ math: true
 
 ## TA Lab Sections {#lab-sections}
 
-These will be filled shortly.
-
+This will be determined by the end of the first week.
 
 ## TA Office Hours and Contact Info {#office-hours}
 
+This will be determined by the end of the first week.

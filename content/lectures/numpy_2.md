@@ -1,6 +1,13 @@
 ---
 title: "Numpy 2"
-date: 2024-04-10T16:18:22-06:00
 draft: false
 weight: 23
 ---
+Lecture date: {{< lectureDate "numpy_2" >}}
+## Topic
+
+More details about this lecture will be put here soon.
+
+## Learning Objectives
+
+This will be a list of all the things you will accomplish in this lecture!

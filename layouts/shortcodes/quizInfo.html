@@ -1,0 +1,12 @@
+{{ $quizKey := .Get 0 }} <!-- Get the parameter passed to the shortcode -->
+{{ $quiz := index .Site.Data.quizzes $quizKey }} <!-- Access the quiz data -->
+{{ $reserve := time $quiz.reserve }} <!-- Parse the date string -->
+{{ $start := time $quiz.start }} <!-- Parse the date string -->
+{{ $end := time $quiz.end }} <!-- Parse the date string -->
+
+
+<ul>
+  <li> Open for registration: {{ $reserve.Format "Monday, January 2, 2006"  }}
+  <li> First day: {{ $start.Format "Monday, January 2, 2006"  }}
+  <li> Last day: {{ $end.Format "Monday, January 2, 2006"  }}
+</ul>

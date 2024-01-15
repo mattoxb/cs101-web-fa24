@@ -2,7 +2,7 @@
 title: "Syllabus"
 date: 2023-07-04T16:12:51-05:00
 draft: false
-weight: 1
+weight: 2
 math: true
 ---
 
@@ -90,10 +90,11 @@ and due.
 
 ### Lecture Activities
 
-Every lecture will have a small activity that demonstrates the concepts we cover.  Part of it is meant to be done during the lecture itself,
-and part of it is for you to do after class.  Their purpose is to make sure you are learning what you need to during the lecture and can use
-it afterward.  These are called "lecture activities**, or LAs, and will be hosted on Prairielearn.  Collectively they are worth 5% of your grade.
-You will have one week to complete them.  It is possible to get an extension: see [Extensions](#extensions) for details.
+Every lecture will have a small activity that demonstrates the concepts we cover.  Part of it is meant to be done during
+the lecture itself, and part of it is for you to do after class.  Their purpose is to make sure you are learning what
+you need to during the lecture and can use it afterward.  These are called "lecture activities**, or just "Lectures" on
+Prairielearn, where they will be hosted.  Collectively they are worth 5% of your grade.  You will have one week to
+complete them.  It is possible to get an extension: see [Extensions](#extensions) for details.
 
 ### Homeworks
 

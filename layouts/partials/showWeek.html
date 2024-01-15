@@ -38,7 +38,7 @@
   {{ if eq $weekNumber $.week }}
       {{ $formattedDate := $itemDate.Format "Monday, January 2" }}
       {{ $formattedEnd := (time $item.end).Format "Monday, January 2" }}
-       <li> <b><a href="{{ site.BaseURL}}/exams/{{$item.slug}}">{{ $item.title }}</a> Starts</b> {{ $formattedDate }} -- {{ $formattedEnd }}</li>
+       <li> <b><a href="{{ site.BaseURL}}/quizzes/{{$key}}">{{ $item.title }}</a> Starts</b> {{ $formattedDate }} -- {{ $formattedEnd }}</li>
    {{end }}
 
   <!-- Quiz Reservation -->
@@ -48,7 +48,7 @@
 
   {{ if eq $weekNumber $.week }}
       {{ $formattedDate := $itemDate.Format "Monday, January 2" }}
-       <li> <b><a href="{{ site.BaseURL}}/exams/{{$item.slug}}">{{ $item.title }}</a></b>
+       <li> <b><a href="{{ site.BaseURL}}/quizzes/{{$key}}">{{ $item.title }}</a></b>
          Open for Registration ({{ $formattedDate }})</li>
    {{end }}
 {{ end }}
