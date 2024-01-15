@@ -12,7 +12,7 @@ draft: false
 
 - Sign up for our [CampusWire forum]({{<param "campuswire">}}).  You will be responsible for announcements posted there.  The join code is {{<param "campuswireJoin">}}. 
 - Register for the course on [PrairieLearn]({{<param "prairielearn" >}}).  This is where almost all assignments will happen.
-- Register for 
+- If you want to be able to see a summary of your grades, Register for 
 
 ### Quick Facts
 
