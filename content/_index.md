@@ -6,11 +6,10 @@ date: 2023-07-05T12:44:58-05:00
 draft: false
 ---
 
-![](/images/hero-ibm360.png)
-
 ### Welcome to CS 101!
 
 - Just registered?  Check the [Getting Started]({{<relref "getting_started">}}) page to get set up quickly.
-- The Syllabus and Schedule 
+- Need a HW extension?  Fill out the [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdyMpNPOGeahsnKWuYdzEfCovbB4MmsKBU6SHVDN6WSCUadjA/viewform?usp=sf_link) <em>before</em> the assignment is due.
 - The [Docs]({{<relref "docs">}}) menu contains course documentation.
-- Check out the [Syllabus]({{<relref "syllabus">}}) to get started!
+  - Here is [The Syllabus](({{<relref "syllabus">}}))
+  - Here is [The Schedule]({{<relref "schedule">}})

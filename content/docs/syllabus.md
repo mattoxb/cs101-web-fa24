@@ -149,7 +149,7 @@ than two or three of these though, so it is better to score well in the beginnin
 
 ### Extensions {#extensions}
 
-- To extend a homework or a lecture assignment, you must fill out the [Extension Request Form]() <em>before</em> the assignment
+- To extend a homework or a lecture assignment, you must fill out the [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdyMpNPOGeahsnKWuYdzEfCovbB4MmsKBU6SHVDN6WSCUadjA/viewform?usp=sf_link) <em>before</em> the assignment
   is due.  You can only request the extension once the assignment has become available.  The extension will be for one week.
 
 - Similarly for labs, you can make up a missed lab during the following week (or even during the current week).  There is a

@@ -7,8 +7,6 @@ draft: false
 imageEffects.lightbox: false
 ---
 
-# How to See Your Grades
-
 Almost everything we assign will be on Prairielearn, and your grades will be visible there, but it's also nice to be able to
 calculate your total score and see what letter grade corresponds to it.  We will use the [[github.com]] service to post your
 grade breakdown.
