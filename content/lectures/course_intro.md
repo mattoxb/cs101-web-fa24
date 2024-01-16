@@ -25,4 +25,4 @@ succeed in this course.
 
 ## Materials
 
-- [Slides](/slides/01-course-introduction.pdf)
+- [Slides](slides/01-course-introduction.pdf)
