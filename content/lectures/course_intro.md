@@ -22,3 +22,7 @@ succeed in this course.
   - Store some text into a variable
   - Store a number into a variable
 - Start the post-class activity and get your first points.
+
+## Materials
+
+- [Slides](/slides/01-course-introduction.pdf)
