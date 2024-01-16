@@ -104,9 +104,10 @@ Like lecture activies, you can get an extra week by following the procedure belo
 
 ### Labs
 
-Most weeks will have a lab session, hosted in L416 DCL.  The consist of a mini-lecture from the TA and some programming on the lab machines.
-These are group activities, and must be completed by the end of lab.  If you happen to miss a lab, you can make it up the following week
-by attending a different lab secion.  This must be arranged in advance.  Thes are worth 25% of your grade.
+Most weeks will have a lab session.  (The [TA]({{<relref "tas">}}) page will have the schedule by the end of week 1.)
+The consist of a mini-lecture from the TA and some programming on the lab machines.  These are group activities, and
+must be completed by the end of lab.  If you happen to miss a lab, you can make it up the following week by attending a
+different lab secion.  This must be arranged in advance.  Thes are worth 25% of your grade.
 
 ### Quizzes
 

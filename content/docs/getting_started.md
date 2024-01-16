@@ -24,6 +24,6 @@ draft: false
   - See the [Schedule]({{<relref "schedule">}}) for a complete list.
   
 - Labs happen throughout the week.
-  - You can look up your lab time and TA at the [TA Labs and Office Hours]({{<relref "tas">}}).  This will be populated by the end of the first week of class.
-  - All labs are in L440 DCL.
+  - You can look up your lab time, location, and TA at the [TA Labs and Office Hours]({{<relref "tas">}}).  This will be populated by the end of the first week of class.
+  - New this semester: the labs will be in the CIF.
   - Attendance is required!
