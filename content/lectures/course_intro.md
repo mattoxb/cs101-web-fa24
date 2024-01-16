@@ -18,4 +18,7 @@ succeed in this course.
 - Meet your instructor and your TAs.
 - Find the syllabus and getting started guide on the main web page.
 - Open the lecture content on PrairieLearn and write some simple Python programs.
+  - Print a greeting
+  - Store some text into a variable
+  - Store a number into a variable
 - Start the post-class activity and get your first points.
