@@ -137,7 +137,7 @@ and $s$ be the second chance score.  Your new score $q'$ will computed as follow
 
 $$ q' =  \begin{array}{ll}
 s & \hbox{if}\ s>q \\\\
-{q' + s \over 2} & \hbox{otherwise}
+{q + s \over 2} & \hbox{otherwise}
 \end{array} 
 $$
 
