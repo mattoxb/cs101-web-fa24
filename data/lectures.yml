@@ -4,25 +4,25 @@ course_intro:
   slug: course_intro
   number: 1
 
+canceled_1:
+  title: (Canceled by weather)
+  date: 2024-01-22
+  slug: canceled
+
 python_types:
   title: Python Types
-  date: 2024-01-22
+  date: 2024-01-24
   slug: python_types
 
 logic:
   title: Logic
-  date: 2024-01-24
+  date: 2024-01-29
   slug: logic
 
 loops:
   title: Loops
-  date: 2024-01-29
-  slug: loops
-
-canceled_1:
-  title: (Canceled)
   date: 2024-01-31
-  slug: canceled
+  slug: loops
 
 functions:
   title: Functions
