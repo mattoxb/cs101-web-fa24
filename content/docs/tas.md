@@ -11,24 +11,79 @@ math: true
 
 | Time                   | Section  | TA        |
 | ---------------------- | -------- | --------- |
-| Mon: 02:00PM - 03:50PM | AYA      | Liia      |
-| Mon: 04:00PM - 05:50PM | AYB      | Chaitanya |
-| Tue: 09:00AM - 10:50AM | AYD      | Vidya     |
-| Tue: 11:00AM - 12:50PM | AYE      | Hardik    |
-| Tue: 01:00PM - 02:50PM | AYF(Arm) | Charlotte |
-| Tue: 03:00PM - 04:50PM | AYG      | Chaitanya |
-| Wed: 02:00PM - 03:50PM | AYI      | Wei       |
-| Wed: 04:00PM - 05:50PM | AYJ      | Wei       |
-| Thu: 09:00AM - 10:50AM | AYL      | Rittik    |
-| Thu: 11:00AM - 12:50PM | AYM      | Rittik    |
-| Thu: 01:00PM - 02:50PM | AYN      | Hardik    |
-| Thu: 03:00PM - 04:50PM | AYO      | Aishi     |
-| Fri: 09:00AM - 10:50AM | AYQ      | Katherine |
-| Fri: 11:00AM - 12:50PM | AYR      | Katherine |
-| Fri: 01:00PM - 02:50PM | AYS      | Mohammed  |
-| Fri: 03:00PM - 04:50PM | AYT      | Jipeng    |
+| Mon: 02:00PM - 03:50PM | AYA      | [Liia](#Liia)    |
+| Mon: 04:00PM - 05:50PM | AYB      | [Chaitanya](#Chaitanya) |
+| Tue: 09:00AM - 10:50AM | AYD      | [Vidya](#Vidya)     |
+| Tue: 11:00AM - 12:50PM | AYE      | [Hardik](#Hardik)    |
+| Tue: 01:00PM - 02:50PM | AYF(Arm) | [Charlotte](#Charlotte) |
+| Tue: 03:00PM - 04:50PM | AYG      | [Chaitanya](#Chaitanya) |
+| Wed: 02:00PM - 03:50PM | AYI      | [Wei](#Wei)       |
+| Wed: 04:00PM - 05:50PM | AYJ      | [Wei](#Wei)       |
+| Thu: 09:00AM - 10:50AM | AYL      | [Rittik](#Rittik)    |
+| Thu: 11:00AM - 12:50PM | AYM      | [Rittik](#Rittik)    |
+| Thu: 01:00PM - 02:50PM | AYN      | [Hardik](#Hardik)    |
+| Thu: 03:00PM - 04:50PM | AYO      | [Aishi](#Aishi)     |
+| Fri: 09:00AM - 10:50AM | AYQ      | [Katherine](#Katherine) |
+| Fri: 11:00AM - 12:50PM | AYR      | [Katherine](#Katherine) |
+| Fri: 01:00PM - 02:50PM | AYS      | [Mohammed](#Mohammed)  |
+| Fri: 03:00PM - 04:50PM | AYT      | [Jipeng](#Jipeng)    |
 
 
 ## TA Office Hours and Contact Info {#office-hours}
 
-This will be determined by the end of the first week.
+### Mattox Beckman {#Mattox}
+
+![Mattox](/images/mattox.jpg?width=8vw&classes=left)
+
+- Email:: [mattox@illinois.edu](mailto:mattox@illinois.edu)
+- Office Hours: Thursday 16:00
+- Office Location: [2212 Siebel](https://what3words.com/pull.moral.behave)
+
+### Chaitanya Bhandari {#Chaitanya}
+
+- Email:: [cbb1996@illinois.edu](mailto:cbb1996@illinois.edu)
+
+### Liia Butler {#Liia}
+
+- Email:: [liiamb2@illinois.edu](mailto:liiamb2@illinois.edu)
+
+### Ritik Dutta {#Ritik}
+
+- Email:: [ritikd2@illinois.edu](mailto:ritikd2@illinois.edu)
+
+### Hardik Fulfagar {#Hardik}
+
+- Email:: [hsf3@illinois.edu](mailto:hsf3@illinois.edu)
+
+### Mohammed Hassan {#Mohammed}
+
+- Email:: [mhassan3@illinois.edu](mailto:mhassan3@illinois.edu)
+
+### Aishi Huang {#Aishi}
+
+- Email:: [aishih2@illinois.edu](mailto:aishih2@illinois.edu)
+
+### Wei Jiang {#Wei}
+
+- Email:: [weij4@illinois.edu](mailto:weij4@illinois.edu)
+
+### Vidya Kamath Pailodi {#Vidya}
+
+- Email:: [vidyak2@illinois.edu](mailto:vidyak2@illinois.edu)
+
+### Jipeng Lyu {#Jipeng}
+
+- Email:: [jipeng2@illinois.edu](mailto:jipeng2@illinois.edu)
+
+### Dipayan Mukherjee {#Dipayan}
+
+- Email:: [dipayan2@illinois.edu](mailto:dipayan2@illinois.edu)
+
+### Katherine Wang {#Katherine}
+
+- Email:: [yuhanw14@illinois.edu](mailto:yuhanw14@illinois.edu)
+
+### Charlotte Yoder {#Charlotte}
+
+- Email:: [yoder6@illinois.edu](mailto:yoder6@illinois.edu)
+
