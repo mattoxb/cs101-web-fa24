@@ -5,79 +5,73 @@ hw1:
   slug: hw1
 
 hw2:
-  title: HW 2 - Arithmetic
-  start: 2024-01-29
-  end: 2024-02-05
+  title: HW 2 - Loops
+  start: 2024-01-31
+  end: 2024-02-07
   slug: hw2
 
 hw3:
-  title: HW 3 - Loops
-  start: 2024-01-31
-  end: 2024-02-07
+  title: HW 3 - Functions
+  start: 2024-02-07
+  end: 2024-02-14
   slug: hw3
 
 hw4:
-  title: HW 4 - Functions
-  start: 2024-02-07
-  end: 2024-02-14
+  title: HW 4 - Dictionaries and Files
+  start: 2024-02-14
+  end: 2024-02-21
   slug: hw4
 
 hw5:
-  title: HW 5 - Dictionaries and Files
-  start: 2024-02-14
-  end: 2024-02-21
+  title: HW 5 - Debugging and Pseudocode
+  start: 2024-02-21
+  end: 2024-02-28
   slug: hw5
 
 hw6:
-  title: HW 6 - Debugging and Pseudocode
-  start: 2024-02-21
-  end: 2024-02-28
+  title: HW 6 - Exceptions
+  start: 2024-02-28
+  end: 2024-03-06
   slug: hw6
 
 hw7:
-  title: HW 7 - Exceptions
-  start: 2024-02-28
-  end: 2024-03-06
+  title: HW 7 - Unit Tests, Libraries
+  start: 2024-03-06
+  end: 2024-03-20
   slug: hw7
 
 hw8:
-  title: HW 8 - Unit Tests, Libraries
-  start: 2024-03-06
-  end: 2024-03-20
+  title: HW 8 - Memory
+  start: 2024-03-20
+  end: 2024-03-27
   slug: hw8
 
 hw9:
-  title: HW 9 - Memory
-  start: 2024-03-20
-  end: 2024-03-27
+  title: HW 9 - Classes
+  start: 2024-03-27
+  end: 2024-04-03
   slug: hw9
 
 hw10:
-  title: HW 10 - Classes
-  start: 2024-03-27
-  end: 2024-04-03
+  title: HW 10 - Numpy
+  start: 2024-04-03
+  end: 2024-04-10
   slug: hw10
 
 hw11:
-  title: HW 11 - Numpy
-  start: 2024-04-03
-  end: 2024-04-10
+  title: HW 11 - Matrices and Plotting
+  start: 2024-04-10
+  end: 2024-04-17
   slug: hw11
 
 hw12:
-  title: HW 12 - Matrices and Plotting
-  start: 2024-04-10
-  end: 2024-04-17
+  title: HW 12 - Data Cleaning and Filtering
+  start: 2024-04-17
+  end: 2024-04-24
   slug: hw12
 
 hw13:
-  title: HW 13 - Data Cleaning and Filtering
-  start: 2024-04-17
-  end: 2024-04-24
-  slug: hw13
-
-hw14:
-  title: HW 14 - Pandas
+  title: HW 13 - Pandas
   start: 2024-04-24
   end: 2024-05-01
-  slug: hw14
+  slug: hw13
