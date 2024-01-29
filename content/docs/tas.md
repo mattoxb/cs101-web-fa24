@@ -31,6 +31,7 @@ math: true
 
 ## TA Office Hours and Contact Info {#office-hours}
 
+<!--
 | Day/Time          | Location | TA/Instructor           |
 |-------------------|----------|-------------------------|
 | Mon 09:00 - 11:00 |          | [Jipeng](#Jipeng)       |
@@ -41,6 +42,7 @@ math: true
 | Wed 13:00 - 15:00 |          | [Dipayan](#Dipayan)     |
 | Thu 11:00 - 16:30 |          | [Ritik](#Ritik)         |
 | Thu 15:30 - 16:30 |          | [Ritik](#Ritik)         |
+ -->
 
 ### Mattox Beckman {#Mattox}
 
