@@ -9,27 +9,38 @@ math: true
 
 ## TA Lab Sections {#lab-sections}
 
-| Time                   | Section  | TA        |
-| ---------------------- | -------- | --------- |
-| Mon: 02:00PM - 03:50PM | AYA      | [Liia](#Liia)    |
+| Time                   | Section  | TA                      |
+|------------------------|----------|-------------------------|
+| Mon: 02:00PM - 03:50PM | AYA      | [Liia](#Liia)           |
 | Mon: 04:00PM - 05:50PM | AYB      | [Chaitanya](#Chaitanya) |
-| Tue: 09:00AM - 10:50AM | AYD      | [Vidya](#Vidya)     |
-| Tue: 11:00AM - 12:50PM | AYE      | [Hardik](#Hardik)    |
+| Tue: 09:00AM - 10:50AM | AYD      | [Vidya](#Vidya)         |
+| Tue: 11:00AM - 12:50PM | AYE      | [Hardik](#Hardik)       |
 | Tue: 01:00PM - 02:50PM | AYF(Arm) | [Charlotte](#Charlotte) |
 | Tue: 03:00PM - 04:50PM | AYG      | [Chaitanya](#Chaitanya) |
-| Wed: 02:00PM - 03:50PM | AYI      | [Wei](#Wei)       |
-| Wed: 04:00PM - 05:50PM | AYJ      | [Wei](#Wei)       |
-| Thu: 09:00AM - 10:50AM | AYL      | [Rittik](#Rittik)    |
-| Thu: 11:00AM - 12:50PM | AYM      | [Rittik](#Rittik)    |
-| Thu: 01:00PM - 02:50PM | AYN      | [Hardik](#Hardik)    |
-| Thu: 03:00PM - 04:50PM | AYO      | [Aishi](#Aishi)     |
+| Wed: 02:00PM - 03:50PM | AYI      | [Wei](#Wei)             |
+| Wed: 04:00PM - 05:50PM | AYJ      | [Wei](#Wei)             |
+| Thu: 09:00AM - 10:50AM | AYL      | [Rittik](#Rittik)       |
+| Thu: 11:00AM - 12:50PM | AYM      | [Rittik](#Rittik)       |
+| Thu: 01:00PM - 02:50PM | AYN      | [Hardik](#Hardik)       |
+| Thu: 03:00PM - 04:50PM | AYO      | [Aishi](#Aishi)         |
 | Fri: 09:00AM - 10:50AM | AYQ      | [Katherine](#Katherine) |
 | Fri: 11:00AM - 12:50PM | AYR      | [Katherine](#Katherine) |
-| Fri: 01:00PM - 02:50PM | AYS      | [Mohammed](#Mohammed)  |
-| Fri: 03:00PM - 04:50PM | AYT      | [Jipeng](#Jipeng)    |
+| Fri: 01:00PM - 02:50PM | AYS      | [Mohammed](#Mohammed)   |
+| Fri: 03:00PM - 04:50PM | AYT      | [Jipeng](#Jipeng)       |
 
 
 ## TA Office Hours and Contact Info {#office-hours}
+
+| Day/Time          | Location | TA/Instructor           |
+|-------------------|----------|-------------------------|
+| Mon 09:00 - 11:00 |          | [Jipeng](#Jipeng)       |
+| Mon 13:00 - 15:00 |          | [Dipayan](#Dipayan)     |
+| Tue 15:30 - 16:30 |          | [Ritik](#Ritik)         |
+| Wed 09:00 - 11:00 |          | [Katherine](#Katherine) |
+| Wed 10:00 - 12:00 |          | [Wei](#Wei)             |
+| Wed 13:00 - 15:00 |          | [Dipayan](#Dipayan)     |
+| Thu 11:00 - 16:30 |          | [Ritik](#Ritik)         |
+| Thu 15:30 - 16:30 |          | [Ritik](#Ritik)         |
 
 ### Mattox Beckman {#Mattox}
 
