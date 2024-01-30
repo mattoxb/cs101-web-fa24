@@ -155,7 +155,7 @@ than two or three of these though, so it is better to score well in the beginnin
 
 - Similarly for labs, you can make up a missed lab during the following week (or even during the current week).  There is a
   separate lab makeup request form for this, since the staff will need to find a suitable lab section for you to attend.
-  You can request a makeup even if you already missed the lab.
+  You can request a makeup even if you already missed the lab.  Here is the [Lab Makeup Request Form](https://forms.gle/yXVxU7cvxnCrJpk17).
 
 - Conflict exams can be arranged for planned absences, such as religious observance, UIUC athletics, interviews, and
   important family gatherings.  (Weddings and funerals count.  Check first for other things.)  You need to contact the
