@@ -6,72 +6,72 @@ hw1:
 
 hw2:
   title: HW 2 - Loops
-  start: 2024-01-31
-  end: 2024-02-07
+  start: 2024-02-02
+  end: 2024-02-09
   slug: hw2
 
 hw3:
   title: HW 3 - Functions
-  start: 2024-02-07
-  end: 2024-02-14
+  start: 2024-02-09
+  end: 2024-02-16
   slug: hw3
 
 hw4:
   title: HW 4 - Dictionaries and Files
-  start: 2024-02-14
-  end: 2024-02-21
+  start: 2024-02-16
+  end: 2024-02-23
   slug: hw4
 
 hw5:
   title: HW 5 - Debugging and Pseudocode
-  start: 2024-02-21
-  end: 2024-02-28
+  start: 2024-02-23
+  end: 2024-02-30
   slug: hw5
 
 hw6:
   title: HW 6 - Exceptions
-  start: 2024-02-28
-  end: 2024-03-06
+  start: 2024-02-30
+  end: 2024-03-08
   slug: hw6
 
 hw7:
   title: HW 7 - Unit Tests, Libraries
-  start: 2024-03-06
-  end: 2024-03-20
+  start: 2024-03-08
+  end: 2024-03-22
   slug: hw7
 
 hw8:
   title: HW 8 - Memory
-  start: 2024-03-20
-  end: 2024-03-27
+  start: 2024-03-22
+  end: 2024-03-29
   slug: hw8
 
 hw9:
   title: HW 9 - Classes
-  start: 2024-03-27
-  end: 2024-04-03
+  start: 2024-03-29
+  end: 2024-04-05
   slug: hw9
 
 hw10:
   title: HW 10 - Numpy
-  start: 2024-04-03
-  end: 2024-04-10
+  start: 2024-04-05
+  end: 2024-04-12
   slug: hw10
 
 hw11:
   title: HW 11 - Matrices and Plotting
-  start: 2024-04-10
-  end: 2024-04-17
+  start: 2024-04-12
+  end: 2024-04-19
   slug: hw11
 
 hw12:
   title: HW 12 - Data Cleaning and Filtering
-  start: 2024-04-17
-  end: 2024-04-24
+  start: 2024-04-19
+  end: 2024-04-26
   slug: hw12
 
 hw13:
   title: HW 13 - Pandas
-  start: 2024-04-24
+  start: 2024-04-26
   end: 2024-05-01
   slug: hw13
