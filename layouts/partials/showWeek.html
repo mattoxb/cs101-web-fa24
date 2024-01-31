@@ -25,9 +25,11 @@
 
   {{ if eq $weekNumber $.week }}
   {{ $formattedDate := $itemDate.Format "Monday, January 2" }}
-   <li> <b>Lecture: <a href="{{ site.BaseURL}}/lectures/{{$item.slug}}">{{ $item.title }}</a></b> {{ $formattedDate }} </li>
+  <li> <b>Lecture {{ $item.number }}: <a href="/lectures/{{$item.slug}}">{{ $item.title }}</a></b> {{ $formattedDate }} </li>
   {{ if $item.video }}
+  <ul>
    <li> <b> <a href="{{ $item.video}}">Lecture Video</a></b> </li>
+  </ul>
    {{end }}
 
    {{end }}

@@ -14,51 +14,61 @@ python_types:
   date: 2024-01-24
   slug: python_types
   video: https://mediaspace.illinois.edu/media/t/1_1giyvhsc
+  number: 2
 
 logic:
   title: Logic
   date: 2024-01-29
   slug: logic
+  number: 3
 
 loops:
   title: Loops
   date: 2024-01-31
   slug: loops
+  number: 4
 
 functions:
   title: Functions
   date: 2024-02-05
   slug: functions
+  number: 5
 
 functions_2:
   title: Functions 2
   date: 2024-02-07
   slug: functions_2
+  number: 6
 
 files:
   title: Files
   date: 2024-02-12
   slug: files
+  number: 7
 
 dictionaries:
   title: Dictionaries
   date: 2024-02-14
   slug: dictionaries
+  number: 8
 
 pseudocode:
   title: Pseudocode
   date: 2024-02-19
   slug: pseudocode
+  number: 9
 
 debugging:
   title: Debugging
   date: 2024-02-21
   slug: debugging
+  number: 10
 
 exceptions:
   title: Exceptions
   date: 2024-02-26
   slug: exceptions
+  number: 11
 
 canceled_2:
   title: (Canceled)
@@ -69,11 +79,13 @@ unit_testing:
   title: Unit Testing
   date: 2024-03-04
   slug: unit_testing
+  number: 12
 
 libraries:
   title: Libraries
   date: 2024-03-06
   slug: libraries
+  number: 13
 
 spring_break_1:
   title: Spring Break
@@ -89,26 +101,31 @@ memory:
   title: Memory
   date: 2024-03-18
   slug: memory
+  number: 14
 
 canceled_3:
   title: (Canceled)
   date: 2024-03-20
   slug: canceled
+  number: 15
 
 classes:
   title: Classes
   date: 2024-03-25
   slug: classes
+  number: 16
 
 inheritance:
   title: Inheritance
   date: 2024-03-27
   slug: inheritance
+  number: 17
 
 matplotlib:
   title: Matplotlib
   date: 2024-04-01
   slug: matplotlib
+  number: 18
 
 canceled_4:
   title: (Canceled)
@@ -119,16 +136,19 @@ numpy_1:
   title: Numpy 1
   date: 2024-04-08
   slug: numpy_1
+  number: 19
 
 numpy_2:
   title: Numpy 2
   date: 2024-04-10
   slug: numpy_2
+  number: 20
 
 pandas_1:
   title: Pandas 1
   date: 2024-04-15
   slug: andas_1
+  number: 21
 
 canceled_5:
   title: (Canceled)
@@ -139,19 +159,23 @@ pandas_2:
   title: Pandas 2
   date: 2024-04-22
   slug: pandas_2
+  number: 22
 
 cool_problem_1:
   title: Cool Problem 1
   date: 2024-04-24
   slug: cool_problem_1
+  number: 23
 
 cool_problem_2:
   title: Cool Problem 2
   date: 2024-04-29
   slug: cool_problem_2
+  number: 24
 
 review_session:
   title: Review Session
   date: 2024-05-01
   slug: review_session
+  number: 25
 
