@@ -36,7 +36,7 @@ All TA office hours are in the [Beckman Institute Lounge](https://what3words.com
 | Day/Time          | TA/Instructor           |
 |-------------------|-------------------------|
 | Tue 14:00 - 15:30 | [Hardik](#Hardik)       |
-| Tue 15:30 - 17:30 | [Ritik](#Ritik)]        |
+| Tue 15:30 - 17:30 | [Ritik](#Ritik)         |
 | Wed 14:00 - 16:00 | [Katherine](#Katherine) |
 | Wed 16:00 - 18:00 | [Chaitanya](#Chaitanya) |
 | Thu 15:00 - 17:00 | [Wei](#Wei)             |
