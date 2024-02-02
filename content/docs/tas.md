@@ -102,5 +102,6 @@ All TA office hours are in the [Beckman Institute Lounge](https://what3words.com
 
 ### Charlotte Yoder {#Charlotte}
 
+![Charlotte](/images/Charlotte.jpg?width=8vw&classes=left)
 - Email:: [yoder6@illinois.edu](mailto:yoder6@illinois.edu)
 
