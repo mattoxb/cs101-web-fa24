@@ -31,6 +31,8 @@ math: true
 
 ## TA Office Hours and Contact Info {#office-hours}
 
+All TA office hours are in the [Beckman Institute Lounge](https://what3words.com/double.bumpy.chart).
+
 | Day/Time          | TA/Instructor           |
 |-------------------|-------------------------|
 | Tue 14:00 - 15:30 | [Hardik](#Hardik)       |
