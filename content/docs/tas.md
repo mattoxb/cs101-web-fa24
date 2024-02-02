@@ -75,7 +75,7 @@ All TA office hours are in the [Beckman Institute Lounge](https://what3words.com
 
 ### Aishi Huang {#Aishi}
 
-![Aishi](/images/Aishi.HEIC?width=8vw&classes=left)
+![Aishi](/images/Aishi.jpg?width=8vw&classes=left)
 - Email:: [aishih2@illinois.edu](mailto:aishih2@illinois.edu)
 
 ### Wei Jiang {#Wei}
@@ -84,7 +84,7 @@ All TA office hours are in the [Beckman Institute Lounge](https://what3words.com
 
 ### Vidya Kamath Pailodi {#Vidya}
 
-![Vidya](/images/Vidya.HEIC?width=8vw&classes=left)
+![Vidya](/images/Vidya.jpg?width=8vw&classes=left)
 - Email:: [vidyak2@illinois.edu](mailto:vidyak2@illinois.edu)
 
 ### Jipeng Lyu {#Jipeng}
