@@ -97,6 +97,7 @@ All TA office hours are in the [Beckman Institute Lounge](https://what3words.com
 
 ### Katherine Wang {#Katherine}
 
+![Katherine](/images/Katherine.jpg?width=8vw&classes=left)
 - Email:: [yuhanw14@illinois.edu](mailto:yuhanw14@illinois.edu)
 
 ### Charlotte Yoder {#Charlotte}
