@@ -31,18 +31,14 @@ math: true
 
 ## TA Office Hours and Contact Info {#office-hours}
 
-<!--
-| Day/Time          | Location | TA/Instructor           |
-|-------------------|----------|-------------------------|
-| Mon 09:00 - 11:00 |          | [Jipeng](#Jipeng)       |
-| Mon 13:00 - 15:00 |          | [Dipayan](#Dipayan)     |
-| Tue 15:30 - 16:30 |          | [Ritik](#Ritik)         |
-| Wed 09:00 - 11:00 |          | [Katherine](#Katherine) |
-| Wed 10:00 - 12:00 |          | [Wei](#Wei)             |
-| Wed 13:00 - 15:00 |          | [Dipayan](#Dipayan)     |
-| Thu 11:00 - 16:30 |          | [Ritik](#Ritik)         |
-| Thu 15:30 - 16:30 |          | [Ritik](#Ritik)         |
- -->
+| Day/Time          | TA/Instructor           |
+|-------------------|-------------------------|
+| Tue 14:00 - 15:30 | [Hardik](#Hardik)       |
+| Tue 15:30 - 17:30 | [Ritik](#Ritik)]        |
+| Wed 14:00 - 16:00 | [Katherine](#Katherine) |
+| Wed 16:00 - 18:00 | [Chaitanya](#Chaitanya) |
+| Thu 15:00 - 17:00 | [Wei](#Wei)             |
+
 
 ### Mattox Beckman {#Mattox}
 
@@ -58,6 +54,7 @@ math: true
 
 ### Liia Butler {#Liia}
 
+![Liia](/images/Liia.jpg?width=8vw&classes=left)
 - Email:: [liiamb2@illinois.edu](mailto:liiamb2@illinois.edu)
 
 ### Ritik Dutta {#Ritik}
@@ -66,14 +63,17 @@ math: true
 
 ### Hardik Fulfagar {#Hardik}
 
+![Hardik](/images/Hardik.jpg?width=8vw&classes=left)
 - Email:: [hsf3@illinois.edu](mailto:hsf3@illinois.edu)
 
 ### Mohammed Hassan {#Mohammed}
 
+![Mohammed](/images/Mohammed.jpg?width=8vw&classes=left)
 - Email:: [mhassan3@illinois.edu](mailto:mhassan3@illinois.edu)
 
 ### Aishi Huang {#Aishi}
 
+![Aishi](/images/Aishi.HEIC?width=8vw&classes=left)
 - Email:: [aishih2@illinois.edu](mailto:aishih2@illinois.edu)
 
 ### Wei Jiang {#Wei}
@@ -82,6 +82,7 @@ math: true
 
 ### Vidya Kamath Pailodi {#Vidya}
 
+![Vidya](/images/Vidya.HEIC?width=8vw&classes=left)
 - Email:: [vidyak2@illinois.edu](mailto:vidyak2@illinois.edu)
 
 ### Jipeng Lyu {#Jipeng}
