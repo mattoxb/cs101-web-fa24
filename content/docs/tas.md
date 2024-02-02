@@ -93,6 +93,7 @@ All TA office hours are in the [Beckman Institute Lounge](https://what3words.com
 
 ### Dipayan Mukherjee {#Dipayan}
 
+![Dipayan](/images/Dipayan.jpg?width=8vw&classes=left)
 - Email:: [dipayan2@illinois.edu](mailto:dipayan2@illinois.edu)
 
 ### Katherine Wang {#Katherine}
