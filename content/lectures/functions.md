@@ -4,10 +4,16 @@ draft: false
 weight: 6
 ---
 Lecture date: {{< lectureDate "functions" >}}
-## Topic
-
-More details about this lecture will be put here soon.
 
 ## Learning Objectives
 
-This will be a list of all the things you will accomplish in this lecture!
+  - Write a function to perform repeated tasks.
+  - Use parameters to control the behavior of a function.
+  - Explain how local variables and parameters are kept in memory.
+  - Use keyword parameters to keep common things hidden.
+
+## Files
+
+ - [Functions](/lectures/functions/1.%20Functions.ipynb)
+ - [Memory](/lectures/functions/2.%20Memory.ipynb)
+ - [Keyword Arugments](/lectures/functions/3.%20Keyword%20Arguments.ipynb)
