@@ -14,8 +14,8 @@ Lecture date: {{< lectureDate "functions_2" >}}
 
 ## Materials
 
- - [Review](/lectures/1.%20Review.ipynb)
- - [Memory](/lectures/functions-2/2.%20Memory.ipynb')
- - [Higher Order](/lectures/functions-2/3.%20Higher%20Order.ipynb')
+ - [Review](/lectures/functions-2/1.%20Review.ipynb)
+ - [Memory](/lectures/functions-2/2.%20Memory.ipynb)
+ - [Higher Order](/lectures/functions-2/3.%20Higher%20Order.ipynb)
 
 This will be a list of all the things you will accomplish in this lecture!
