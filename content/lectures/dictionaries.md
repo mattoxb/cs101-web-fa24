@@ -4,10 +4,9 @@ draft: false
 weight: 9
 ---
 Lecture date: {{< lectureDate "dictionaries" >}}
-## Topic
 
-More details about this lecture will be put here soon.
+## Jupyter Files
 
-## Learning Objectives
-
-This will be a list of all the things you will accomplish in this lecture!
+  - [Creating Dictionaries](/lectures/dictionaries/1.%20Creating%20Dictionaries.ipynb)
+  - [Looking Things Up](/lectures/dictionaries/2.%20Looking%20Up.ipynb)
+  - [Inverting](/lectures/dictionaries/3.%20Inverting.ipynb)
