@@ -31,7 +31,7 @@ math: true
 
 ## TA Office Hours and Contact Info {#office-hours}
 
-All TA office hours are in the [Beckman Institute Lounge](https://what3words.com/double.bumpy.chart).
+All TA office hours are in the Siebel Center for Computer Science Lower Level.
 
 | Day/Time          | TA/Instructor           |
 |-------------------|-------------------------|
