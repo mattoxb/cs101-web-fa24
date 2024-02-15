@@ -113,25 +113,24 @@ canceled_3:
   title: (Canceled)
   date: 2024-03-20
   slug: canceled
-  number: 15
 
 classes:
   title: Classes
   date: 2024-03-25
   slug: classes
-  number: 16
+  number: 15
 
 inheritance:
   title: Inheritance
   date: 2024-03-27
   slug: inheritance
-  number: 17
+  number: 16
 
 matplotlib:
   title: Matplotlib
   date: 2024-04-01
   slug: matplotlib
-  number: 18
+  number: 17
 
 canceled_4:
   title: (Canceled)
@@ -142,19 +141,19 @@ numpy_1:
   title: Numpy 1
   date: 2024-04-08
   slug: numpy_1
-  number: 19
+  number: 18
 
 numpy_2:
   title: Numpy 2
   date: 2024-04-10
   slug: numpy_2
-  number: 20
+  number: 19
 
 pandas_1:
   title: Pandas 1
   date: 2024-04-15
   slug: andas_1
-  number: 21
+  number: 20
 
 canceled_5:
   title: (Canceled)
@@ -165,23 +164,23 @@ pandas_2:
   title: Pandas 2
   date: 2024-04-22
   slug: pandas_2
-  number: 22
+  number: 21
 
 cool_problem_1:
   title: Cool Problem 1
   date: 2024-04-24
   slug: cool_problem_1
-  number: 23
+  number: 22
 
 cool_problem_2:
   title: Cool Problem 2
   date: 2024-04-29
   slug: cool_problem_2
-  number: 24
+  number: 23
 
 review_session:
   title: Review Session
   date: 2024-05-01
   slug: review_session
-  number: 25
+  number: 24
 
