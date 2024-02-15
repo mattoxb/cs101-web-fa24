@@ -20,29 +20,34 @@ logic:
   title: Logic
   date: 2024-01-29
   slug: logic
+  video: https://mediaspace.illinois.edu/media/t/1_ephlcc5v
   number: 3
 
 loops:
   title: Loops
   date: 2024-01-31
   slug: loops
+  video: https://mediaspace.illinois.edu/media/t/1_fe5nu730
   number: 4
 
 functions:
   title: Functions
   date: 2024-02-05
   slug: functions
+  video: https://mediaspace.illinois.edu/media/t/1_2z8xf2nm
   number: 5
 
 functions_2:
   title: Functions 2
   date: 2024-02-07
   slug: functions_2
+  video: https://mediaspace.illinois.edu/media/t/1_zkl32i0d
   number: 6
 
 files:
   title: Files
   date: 2024-02-12
+  video: https://mediaspace.illinois.edu/media/t/1_4z6gk6iy
   slug: files
   number: 7
 
@@ -50,6 +55,7 @@ dictionaries:
   title: Dictionaries
   date: 2024-02-14
   slug: dictionaries
+  video: https://mediaspace.illinois.edu/media/t/1_w6yi81e0
   number: 8
 
 pseudocode:
