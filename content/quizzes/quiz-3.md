@@ -6,9 +6,7 @@ weight: 3
 
 {{< quizInfo "quiz-3" >}}
 
-A practice quiz will be released two days before the first day.
-
 ## Topics
+- Homework 4
+- Homework 5
 
-
-- TBA

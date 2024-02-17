@@ -6,9 +6,9 @@ weight: 2
 
 {{< quizInfo "quiz-2" >}}
 
-A practice quiz will be released two days before the first day.
-
 ## Topics
+- Homework 2
+- Homework 3
 
-
-- TBA
+These homeworks function as a practice quiz.  If you do the homework well the quiz problems
+will feel very familiar.
