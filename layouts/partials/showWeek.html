@@ -31,6 +31,11 @@
    <li> <b> <a href="{{ $item.video}}">Lecture Video</a></b> </li>
   </ul>
    {{end }}
+  {{ if $item.slides }}
+  <ul>
+   <li> <b> <a href="/slides/{{ $item.slides}}">Lecture Slides</a></b> </li>
+  </ul>
+   {{end }}
 
    {{end }}
 {{ end }}
