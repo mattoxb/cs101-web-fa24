@@ -209,6 +209,131 @@ Why does it start from 0 and leave out the last element?
 
 Test
 
+
+** Looping Patterns With For Loops
+:PROPERTIES:
+:EXPORT_FILE_NAME: Looping Patterns
+:EXPORT_DATE: 2024-02-19
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 2
+:ID:       f602180b-7178-486a-94bc-2877e832436f
+:END:
+
+When using =for= loops, a few patterns show up frequently.  If you learn these patterns --- how to recognize them and how to code them ---
+it can speed up your programming.
+
+*** The Action Pattern
+
+In the /action/ pattern, we want to /do something/ to (or with) each element of a list.
+
+Here is the pseudocode template:
+
+#+begin_src 
+possible setup code
+for each x in xx:
+    do somethign using x
+#+end_src
+
+**** Example: Printing the Elements of a List
+
+#+begin_src python
+for x in xx:
+    print(x)
+#+end_src
+
+**** Example: Printing the Elements of a List and Their Squares
+
+#+begin_src python
+for x in xx:
+    print(f"{x}, {x*x}")
+#+end_src
+
+**** Reading Elements from a File a Printing Them
+
+#+begin_src python
+with open('foo.txt') as file:
+    for x in file.readlines()
+        print(x)
+#+end_src
+
+**** Writing Elements of a List to a File
+
+#+begin_src python
+with open('foo.txt','w') as file:
+    for x in xx:
+        file.write(f"{x}\n")
+#+end_src
+
+
+*** The Accumulator Pattern
+
+In the accumulator pattern, we want to /build up/ a pattern using a collection of data.
+
+Here is the pseudocode template:
+
+#+begin_src 
+initialize the accumulator
+for each x in xx:
+    modify accumulator using x
+final result is in accumulator
+#+end_src
+
+**** Example: Counting the Elements of a List
+
+For this, =count= is the accumulator, and at each step we add one to it.
+
+#+begin_src python
+count = 0
+for x in xx:
+    count = count + 1
+#+end_src
+
+
+**** Example: Summing the Elements of a List
+
+For this, =sum= is the accumulator, and at each step we add =x= to it.
+
+#+begin_src python
+sum = 0
+for x in xx:
+    sum = sum + x
+#+end_src
+
+**** Example: Taking the Maximum of the Elements of a List
+
+For this, =themax= is the accumulator, and at each step we update it with =x= using the built-in funciton =max=.
+
+#+begin_src python
+themax = xx[0]
+for x in xx[1:]:
+    themax = max(themax,x)
+#+end_src
+
+Note here we initialize =themax= to the first element of the list, and iterate over the rest of the elements.
+
+**** Example: Create a Dictionary with the Elements of a List and Their Squares
+
+For this, =d= is the accumulator, and at each step we update it by inserting key =x= with value =x*x=.
+
+#+begin_src python
+d = {}
+for x in xx:
+    d[x] = x * x
+#+end_src
+
+**** Your turn!
+
+Try to write Python code to
+- Take the product of the elements of a list
+- Take the minimum of the elements of a list
+
+
+** Template :noexport:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 
+:EXPORT_DATE: 2024-02-19
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 99
+:END:
+
 * End :noexport:
 ;; Local Variables:
 ;; eval: (org-link-set-parameters "class" :export #'my-org-export-class-link)

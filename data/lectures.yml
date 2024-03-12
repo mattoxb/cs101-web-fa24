@@ -82,16 +82,16 @@ canceled_2:
   date: 2024-02-28
   slug: canceled
 
-unit_testing:
-  title: Unit Testing
+classes:
+  title: Classes
   date: 2024-03-04
-  slug: unit_testing
+  slug: classes
   number: 12
 
-libraries:
-  title: Libraries
+inheritance: 
+  title: Inheritance
   date: 2024-03-06
-  slug: libraries
+  slug: inheritance
   number: 13
 
 spring_break_1:
@@ -104,10 +104,10 @@ spring_break_2:
   date: 2024-03-13
   slug: spring_break
   
-memory:
-  title: Memory
+unit_testing:
+  title: Unit Testing
   date: 2024-03-18
-  slug: memory
+  slug: unit_testing
   number: 14
 
 canceled_3:
@@ -115,16 +115,16 @@ canceled_3:
   date: 2024-03-20
   slug: canceled
 
-classes:
-  title: Classes
+libraries: 
+  title: Libraries
   date: 2024-03-25
-  slug: classes
+  slug: libraries
   number: 15
 
-inheritance:
-  title: Inheritance
+memory: 
+  title: Memory
   date: 2024-03-27
-  slug: inheritance
+  slug: memory
   number: 16
 
 matplotlib:
@@ -133,16 +133,16 @@ matplotlib:
   slug: matplotlib
   number: 17
 
-canceled_4:
-  title: (Canceled)
-  date: 2024-04-03
-  slug: canceled
-
 numpy_1:
   title: Numpy 1
-  date: 2024-04-08
+  date: 2024-04-03
   slug: numpy_1
   number: 18
+
+canceled_4:
+  title: (Canceled) Also, Solar Eclipse
+  date: 2024-04-08
+  slug: canceled
 
 numpy_2:
   title: Numpy 2

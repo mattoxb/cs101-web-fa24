@@ -21,7 +21,7 @@ math: true
 ## Labs and Office Hours {#labs-and-office-hours}
 
 
- - [**In-Person Labs**](#labs) ---  Per-section, [see below](#labs); [L416](http://ada.fs.illinois.edu/0210PLANB.html) [Digital Computer Laboratory](http://ada.fs.illinois.edu/0210.html)
+ - [**In-Person Labs**](#labs) ---  Per-section, [see here]({{<relref "tas">}})
  - [**TA Office Hours**](#office-hours) :: [see below](#office-hours); [0224](http://ada.fs.illinois.edu/0563PLANB.html) [Siebel Center for Computer Science](http://ada.fs.illinois.edu/0563.html)
  - Class URL ::  https://courses.engr.illinois.edu/cs101/Sp2024
  - Enrollment :: [Course catalog](https://courses.illinois.edu/schedule/2024/spring/CS/101)
