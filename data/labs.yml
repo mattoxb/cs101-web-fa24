@@ -19,19 +19,19 @@ lab6:
   title: Lab 6 - Debugging Skills
 lab7:
   date: 2024-03-04
-  title: Lab 7 - Exception Handling
+  title: Lab 7 - Quiz 2 Reflection
 lab8:
   date: 2024-03-18
-  title: Lab 8 - The Inigma Machine (with Unit Tests)
+  title: Lab 8 - Encoding
 lab9:
   date: 2024-03-25
-  title: Lab 9 - Unit Tests
+  title: Lab 9 - Enigma with Unit Tests
 lab10:
   date: 2024-04-01
-  title: Lab 10 - Hunt the Wumpus
+  title: Lab 10 - Censorship
 lab11:
   date: 2024-04-08
-  title: Lab 11 - Censorship
+  title: Lab 11 - TBD
 lab12:
   date: 2024-04-15
   title: Lab 12 - Sympy, Scipi, and fun libraries to use
