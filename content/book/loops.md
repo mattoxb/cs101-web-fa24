@@ -31,7 +31,7 @@ In this chapter we will talk about `for` loops and `while` loops.
 Suppose you wanted to print out a table of squares for your child's math practice.  We will do the first 5
 to preserve our own sanity. The Python program below accomplishes this.  Badly.
 
-```python { linenos=true, linenostart=1 }
+```python
 i = 1
 print(f"{i} * {i} = {i * i}")
 i = 2
