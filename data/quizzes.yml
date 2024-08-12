@@ -1,26 +1,35 @@
+quiz-1:
+  reserve: 2024-08-29
+  title: Quiz 1
+  start: 2024-09-13
+  end: 2024-09-16
 quiz-2:
-  reserve: 2024-02-01
+  reserve: 2024-09-12
   title: Quiz 2
-  start: 2024-02-16
-  end: 2024-02-19
+  start: 2024-09-27
+  end: 2024-09-30
 quiz-3:
-  reserve: 2024-02-15
+  reserve: 2024-09-26
   title: Quiz 3
-  start: 2024-03-01
-  end: 2024-03-04
+  start: 2024-10-11
+  end: 2024-10-14
 quiz-4:
-  reserve: 2024-02-29
+  reserve: 2024-10-10
   title: Quiz 4
-  start: 2024-03-22
-  end: 2024-03-25
+  start: 2024-10-25
+  end: 2024-10-28
 quiz-5:
-  reserve: 2024-03-21
+  reserve: 2024-10-24
   title: Quiz 5
-  start: 2024-04-05
-  end: 2024-04-08
+  start: 2024-11-08
+  end: 2024-11-11
 quiz-6:
-  reserve: 2024-04-04
+  reserve: 2024-11-21
   title: Quiz 6
-  start: 2024-04-19
-  end: 2024-04-22
-
+  start: 2024-12-06
+  end: 2024-12-09
+final:
+  reserve: 2024-10-11
+  title: Final
+  start: 2024-12-12
+  end: 2024-12-19

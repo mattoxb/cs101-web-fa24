@@ -1,187 +1,191 @@
 course_intro:
   title: Course Introduction
-  date: 2024-01-17
+  date: 2024-08-26
   slug: course_intro
   number: 1
 
-canceled_1:
-  title: (Canceled by weather)
-  date: 2024-01-22
-  slug: canceled
-
 python_types:
   title: Python Types
-  date: 2024-01-24
+  date: 2024-08-28
   slug: python_types
-  video: https://mediaspace.illinois.edu/media/t/1_1giyvhsc
   number: 2
+
+labor_day:
+  title: Labor Day (No Class)
+  date: 2024-09-02
+  slug: labor_day
+  video: 
+  number: 3
+
+functions_1:
+  title: Functions
+  date: 2024-09-04
+  slug: functions_1
+  number: 4
 
 logic:
   title: Logic
-  date: 2024-01-29
+  date: 2024-09-09
   slug: logic
-  video: https://mediaspace.illinois.edu/media/t/1_ephlcc5v
-  number: 3
+  video: 
+  number: 5
 
 loops:
   title: Loops
-  date: 2024-01-31
+  date: 2024-09-11
   slug: loops
-  video: https://mediaspace.illinois.edu/media/t/1_fe5nu730
-  number: 4
-
-functions:
-  title: Functions
-  date: 2024-02-05
-  slug: functions
-  video: https://mediaspace.illinois.edu/media/t/1_2z8xf2nm
-  number: 5
+  video: 
+  number: 6
 
 functions_2:
   title: Functions 2
-  date: 2024-02-07
+  date: 2024-09-16
   slug: functions_2
-  video: https://mediaspace.illinois.edu/media/t/1_zkl32i0d
-  number: 6
+  video: 
+  number: 7
 
 files:
   title: Files
-  date: 2024-02-12
-  video: https://mediaspace.illinois.edu/media/t/1_4z6gk6iy
+  date: 2024-09-18
+  video: 
   slug: files
-  number: 7
+  number: 8
 
 dictionaries:
   title: Dictionaries
-  date: 2024-02-14
+  date: 2024-09-23
   slug: dictionaries
-  video: https://mediaspace.illinois.edu/media/t/1_w6yi81e0
-  number: 8
+  video: 
+  number: 9
 
 pseudocode:
   title: Pseudocode
-  date: 2024-02-19
+  date: 2024-09-25
   slug: pseudocode
   slides: pseudocode-slides.pdf
-  number: 9
+  number: 10
 
 debugging:
   title: Debugging
-  date: 2024-02-21
+  date: 2024-09-30
   slug: debugging
-  number: 10
+  number: 11
 
 exceptions:
   title: Exceptions
-  date: 2024-02-26
+  date: 2024-10-02
   slug: exceptions
-  number: 11
+  number: 12
 
 canceled_2:
   title: (Canceled)
-  date: 2024-02-28
+  date: 2024-10-07
   slug: canceled
 
 classes:
   title: Classes
-  date: 2024-03-04
+  date: 2024-10-09
   slug: classes
   number: 12
 
 inheritance: 
   title: Inheritance
-  date: 2024-03-06
+  date: 2024-10-14
   slug: inheritance
   number: 13
-
-spring_break_1:
-  title: Spring Break
-  date: 2024-03-11
-  slug: spring_break
-
-spring_break_2:
-  title: Spring Break
-  date: 2024-03-13
-  slug: spring_break
   
 unit_testing:
   title: Unit Testing
-  date: 2024-03-18
+  date: 2024-10-16
   slug: unit_testing
   number: 14
 
 canceled_3:
   title: (Canceled)
-  date: 2024-03-20
+  date: 2024-10-21
   slug: canceled
 
 libraries: 
   title: Libraries
-  date: 2024-03-25
+  date: 2024-10-23
   slug: libraries
   number: 15
 
 memory: 
   title: Memory
-  date: 2024-03-27
+  date: 2024-10-28
   slug: memory
   number: 16
 
 matplotlib:
   title: Matplotlib
-  date: 2024-04-01
+  date: 2024-10-30
   slug: matplotlib
   number: 17
 
 numpy_1:
   title: Numpy 1
-  date: 2024-04-03
+  date: 2024-11-04
   slug: numpy_1
   number: 18
 
 canceled_4:
-  title: (Canceled) Also, Solar Eclipse
-  date: 2024-04-08
+  title: (Canceled)
+  date: 2024-11-06
   slug: canceled
 
 numpy_2:
   title: Numpy 2
-  date: 2024-04-10
+  date: 2024-11-11
   slug: numpy_2
   number: 19
 
 pandas_1:
   title: Pandas 1
-  date: 2024-04-15
+  date: 2024-11-13
   slug: andas_1
   number: 20
 
-canceled_5:
-  title: (Canceled)
-  date: 2024-04-17
-  slug: canceled
-
 pandas_2:
   title: Pandas 2
-  date: 2024-04-22
+  date: 2024-11-18
   slug: pandas_2
   number: 21
 
+canceled_5:
+  title: (Canceled)
+  date: 2024-11-20
+  slug: canceled
+
+fall_break_1:
+  title: Fall Break
+  date: 2024-11-25
+  slug: fall_break
+
+fall_break_2:
+  title: Fall Break
+  date: 2024-11-27
+  slug: fall_break
+
 cool_problem_1:
   title: Cool Problem 1
-  date: 2024-04-24
+  date: 2024-12-02
   slug: cool_problem_1
   number: 22
 
 cool_problem_2:
   title: Cool Problem 2
-  date: 2024-04-29
+  date: 2024-12-04
   slug: cool_problem_2
   number: 23
 
 review_session:
   title: Review Session
-  date: 2024-05-01
+  date: 2024-12-09
   slug: review_session
   number: 24
 
+canceled_6:
+  title: (Canceled)
+  date: 2024-12-11
+  slug: canceled

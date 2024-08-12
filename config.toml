@@ -12,6 +12,9 @@ imageEffects.lightbox = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+      noClasses = false
+      style = 'chroma-neon'
 
 # For search functionality
 [outputs]
