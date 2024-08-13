@@ -208,7 +208,8 @@ These are mentioned above, but here is a summary table.
 | Component                  | Total Value           |
 |----------------------------|-----------------------|
 | Lecture Activities         | 5%                    |
-| Homework                   | 35%                   |
+| Homework                   | 25%                   |
+| Mini Projects              | 10%                   |
 | Lab/Discussion             | 25%                   |
 | Quizzes                    | 35%                   |
 | Final Exam                 | Part of Quizzes       |
