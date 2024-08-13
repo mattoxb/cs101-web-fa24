@@ -1,0 +1,30 @@
+mp1:
+  title: MP 1 - First
+  start: 2024-09-16
+  end: 2024-09-30
+  slug: mp1
+
+mp2:
+  title: MP 2 - Second
+  start: 2024-09-30
+  end: 2024-10-14
+  slug: mp2
+
+mp3:
+  title: MP 3 - Third
+  start: 2024-10-14
+  end: 2024-10-28
+  slug: mp3
+
+mp4:
+  title: MP 4 - Forth
+  start: 2024-10-28
+  end: 2024-11-11
+  slug: mp4
+
+mp5:
+  title: MP 5 - Fifth
+  start: 2024-11-11
+  end: 2024-12-04
+  slug: mp5
+
