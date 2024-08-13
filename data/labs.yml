@@ -3,38 +3,35 @@ lab1:
   date: 2024-09-09
 
 lab2:
-  date: 2024-01-29
+  date: 2024-09-16
   title: Lab 2 - Python as an Expensive Calculator
 lab3:
-  date: 2024-02-05
+  date: 2024-09-23
   title: Lab 3 - Loops and range
 lab4:
-  date: 2024-02-12
+  date: 2024-09-30
   title: Lab 4 - Functions
 lab5:
-  date: 2024-02-19
+  date: 2024-10-07
   title: Lab 5 - DNA Sequencing
 lab6:
-  date: 2024-02-26
+  date: 2024-10-14
   title: Lab 6 - Debugging Skills
 lab7:
-  date: 2024-03-04
+  date: 2024-10-21
   title: Lab 7 - Quiz 2 Reflection
 lab8:
-  date: 2024-03-18
+  date: 2024-10-28
   title: Lab 8 - Encoding
 lab9:
-  date: 2024-03-25
+  date: 2024-11-11
   title: Lab 9 - Enigma with Unit Tests
 lab10:
-  date: 2024-04-01
+  date: 2024-11-18
   title: Lab 10 - Censorship
 lab11:
-  date: 2024-04-08
-  title: Lab 11 - TBD
-lab12:
-  date: 2024-04-15
+  date: 2024-12-02
   title: Lab 12 - Sympy, Scipi, and fun libraries to use
-lab13:
-  date: 2024-04-22
+lab12:
+  date: 2024-12-09
   title: Lab 12 - Pandas Lab
